@@ -2,7 +2,7 @@
  *     __  _   ____   __  __   ____  _____  ____ _____  ____ 
  *    |  \| | / () \ |  \/  | (_ (_`|_   _|/ () \| () )| ===|
  *    |_|\__|/__/\__\|_|\/|_|.__)__)  |_|  \____/|_|\_\|____|
- *     NamStore TOS v1.0 -----> THIS SCRIPT IS OPEN SOURCES
+ *     NamStore TOS/TOF v1.0 -----> THIS SCRIPT IS OPEN SOURCES
  *  (C) Pham Hoang Nam 2026 - Update 2025 JAN 24 02:33 PM (GMT+7 VN)
  */
 console.log(`
